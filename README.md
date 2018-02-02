@@ -1,5 +1,11 @@
 # chrysoberyl.MaxhitRanking
 
+###### Latest Stable Online
+> https://ffxiv.work/MaxHitRanking/
+
+###### Latest Unstable Online (Github Master version)
+> https://ffxiv.work/MaxHitRanking/unstable/
+
 `Requested by Houndblack`
 
 some overlay
